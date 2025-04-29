@@ -5,7 +5,7 @@ def calcular_valores(num):
     return dobro, triplo, quadrado
 
 
-numero = float(input("Digite o valor do lado do adesivo em cm: "))
+numero = float(input("Digite o valor em cm: "))
 
 
 dobro, triplo, quadrado = calcular_valores(numero)
