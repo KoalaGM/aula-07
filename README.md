@@ -1,1 +1,3 @@
-Teste README da Aula 07
+# aula07
+Funções
+São blocos de códigos que 
